@@ -1,7 +1,7 @@
 {
     "title": "rNazor's Test Values",
     "version": "1.0.0.1",
-    "github": "https://github.com/rnazor/rnazor-test-values/public",
+    "github": "https://github.com/rnazor/rnazor-test-values",
     "link": "rnazor.github.io",
     "description": "This are test values",
     "valQuestion": "What are the values?",
