@@ -1,0 +1,50 @@
+[
+    {
+        "id": "based",
+        "name": "Basedness",
+        "weights": [10, 15, 20, 10, 20, 15, 10],
+        "left": {
+            "name": "Cringe",
+            "color": "#FF0000",
+            "description": "You are Cringe"
+        },
+        "right": {
+            "name": "Based",
+            "color": "#00FF00",
+            "description": "You are Based"
+        },
+        "tiers": [
+            "Super Cringe",
+            "Cringe",
+            "A bit Cringe",
+            "Nor Cringe or Based",
+            "A bit Based",
+            "Based",
+            "Super Based"
+        ]
+    },
+    {
+        "id": "gamer",
+        "name": "Gamerness",
+        "weights": [10, 15, 20, 10, 20, 15, 10],
+        "left": {
+            "name": "Normie",
+            "color": "#CCCCCC",
+            "description": "You are Normie"
+        },
+        "right": {
+            "name": "Gamer",
+            "color": "#141414",
+            "description": "You are Based"
+        },
+        "tiers": [
+            "Super Normie",
+            "Normie",
+            "A bit Normie",
+            "Nor Normie or Gamer",
+            "A bit Gamer",
+            "Gamer",
+            "Society"
+        ]
+    }
+]
