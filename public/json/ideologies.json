@@ -2,29 +2,29 @@
     {
         "name": "True Higgardist",
         "stats": {
-            "based": 100,
-            "gamer": 100
+            "based": 0,
+            "gamer": 0
         }
     },
         {
         "name": "Based",
-        "stats": {
-            "based": 100,
-            "gamer": 0
-        }
-    },
-    {
-        "name": "Gamer",
         "stats": {
             "based": 0,
             "gamer": 100
         }
     },
     {
-        "name": "Disgusting Human Being",
+        "name": "Gamer",
         "stats": {
             "based": 100,
-            "gamer": 100
+            "gamer": 0
+        }
+    },
+    {
+        "name": "Disgusting Human Being",
+        "stats": {
+            "based": 0,
+            "gamer": 0
         }
     }
 ]
