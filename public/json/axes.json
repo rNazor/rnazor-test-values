@@ -6,11 +6,13 @@
         "left": {
             "name": "Cringe",
             "color": "#FF0000",
+            "icon": "value_images/Cringe.png",
             "description": "You are Cringe"
         },
         "right": {
             "name": "Based",
             "color": "#00FF00",
+            "icon": "value_images/Based.png",
             "description": "You are Based"
         },
         "tiers": [
@@ -30,11 +32,13 @@
         "left": {
             "name": "Normie",
             "color": "#CCCCCC",
+            "icon": "value_images/Normie.PNG",
             "description": "You are Normie"
         },
         "right": {
             "name": "Gamer",
             "color": "#141414",
+            "icon": "value_images/Based.png",
             "description": "You are Based"
         },
         "tiers": [
