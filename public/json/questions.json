@@ -5,5 +5,12 @@
             "based": 1,
             "gamer": 0
         }
+    },
+    {
+        "question": "I like to say the N word",
+        "effect": {
+            "based": 0,
+            "gamer": 1
+        }
     }
 ]
