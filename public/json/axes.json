@@ -38,7 +38,7 @@
         "right": {
             "name": "Gamer",
             "color": "#141414",
-            "icon": "value_images/Based.png",
+            "icon": "value_images/Gamer.png",
             "description": "You are Based"
         },
         "tiers": [
