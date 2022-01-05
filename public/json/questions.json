@@ -9,7 +9,7 @@
     {
         "question": "I like to say the N word",
         "effect": {
-            "based": 0,
+            "based": -1,
             "gamer": -1
         }
     }
