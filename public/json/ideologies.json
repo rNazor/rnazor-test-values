@@ -7,14 +7,14 @@
         }
     },
         {
-        "name": "Based",
+        "name": "Based Non-Gamer",
         "stats": {
             "based": -100,
             "gamer": 100
         }
     },
     {
-        "name": "Gamer",
+        "name": "Unbased Gamer",
         "stats": {
             "based": 100,
             "gamer": -100
@@ -25,6 +25,20 @@
         "stats": {
             "based": 100,
             "gamer": 100
+        }
+    },
+       {
+        "name": "None",
+        "stats": {
+            "based": 0,
+            "gamer": 0
+        }
+    },
+         {
+        "name": "Gamer",
+        "stats": {
+            "based": 0,
+            "gamer": -100
         }
     }
 ]
