@@ -26,19 +26,4 @@
             "based": 100,
             "gamer": 100
         }
-    },
-       {
-        "name": "None",
-        "stats": {
-            "based": 0,
-            "gamer": 0
-        }
-    },
-         {
-        "name": "Gamer",
-        "stats": {
-            "based": 0,
-            "gamer": -100
-        }
-    }
 ]
