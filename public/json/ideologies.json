@@ -26,5 +26,12 @@
             "based": 100,
             "gamer": 100
         }
+    },
+    {
+        "name": "Based Gamer",
+        "stats": {
+            "based": 1,
+            "gamer": 1
+        }
     }
 ]
